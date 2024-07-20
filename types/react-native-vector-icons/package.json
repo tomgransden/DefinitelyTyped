@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "@types/react": "*",
-        "@types/react-native": "^0.70"
+        "react-native": "*"
     },
     "devDependencies": {
         "@types/react-native-vector-icons": "workspace:."
